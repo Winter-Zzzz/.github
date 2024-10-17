@@ -4,9 +4,9 @@
 
 ## Proposal
 
-Our team introduces "MATTER Tunnel," which enables the MATTER protocol to operate on a blockchain basis. MATTER is a protocol that provides interoperability between IoT devices from various manufacturers, allowing control of multiple brands of IoT devices from a single application. However, due to current network constraints such as NAT and firewalls, a dedicated MATTER hub is required when using MATTER devices.
-The mandatory use of MATTER hubs degrades user experience and causes many issues, including user dependence on specific platforms. MATTER Tunnel resolves these current limitations of MATTER by utilizing blockchain technology. This technology operates as if creating a virtual private network between applications and IoT devices on a blockchain.
-MATTER Tunnel will enhance user experience, enable complete end-to-end encryption (E2EE), and lower the entry barriers for small development teams into the MATTER ecosystem. With the introduction of MATTER Tunnel, security of IoT devices will be strengthened, and users will be able to enjoy a more unrestricted IoT experience.
+Our team introduces "Matter Tunnel," which enables the Matter protocol to operate on a blockchain basis. Matter is a protocol that provides interoperability between IoT devices from various manufacturers, allowing control of multiple brands of IoT devices from a single application. However, due to current network constraints such as NAT and firewalls, a dedicated Matter hub is required when using Matter devices.
+Matter Tunnel resolves the current limitations of Matter by utilizing blockchain technology, operating as if creating a virtual private network between applications and IoT devices. Primarily, it eliminates the mandatory use of Matter hubs, significantly enhancing user experience and flexibility. This innovation also extends the operational range of Matter devices, allowing them to be placed and controlled beyond the confines of a home. Users can easily manage devices in various environments such as home, workspaces, and vehicles through a single application.
+Furthermore, Matter Tunnel ensures platform independence, freeing users from being locked into specific ecosystems. It strengthens security by enabling complete end-to-end encryption (E2EE) and enhances user privacy. Additionally, by lowering entry barriers, Matter Tunnel opens up opportunities for small development teams to participate in the Matter ecosystem. With these improvements, users can enjoy a more secure, versatile, and unrestricted IoT experience.
 
 ## Our Team
 
