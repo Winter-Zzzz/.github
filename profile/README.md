@@ -1,6 +1,6 @@
 # MATTER Tunnel
 
-### Blockchain-based MATTER Extension
+### Blockchain-based Matter Protocol Relay Service
 
 ## Proposal
 
