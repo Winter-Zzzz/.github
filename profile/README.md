@@ -1,18 +1,29 @@
 # MATTER Tunnel
 
-### Blockchain-based Matter Protocol Relay Service
+### Blockchain-based Matter protocol improvement for more flexible and reliable services
 
 ## Proposal
 
-Our team introduces 'Matter Tunnel', which enables the Matter protocol to operate on a blockchain basis.
+Our team introduces `Matter Tunnel', which enables the Matter protocol to operate on a blockchain basis.
+Matter is a protocol that provides interoperability between IoT devices from various manufacturers, allowing control of multiple
+brands of IoT devices from a single application. However, due to current
+network constraints such as NAT and firewalls, a dedicated Matter hub is required
+when using IoT devices.
 
-Matter is a protocol that provides interoperability between IoT devices from various manufacturers, allowing control of multiple brands of IoT devices from a single application. However, due to current network constraints such as NAT and firewalls, a dedicated Matter hub is required when using Matter devices. Matter Tunnel resolves the current limitations of Matter by utilizing blockchain technology, operating as if creating a virtual private network between applications and IoT devices.
+Matter Tunnel resolves the current limitations of
+Matter by utilizing blockchain technology, operating as if creating a virtual
+private network between applications and IoT devices. Primarily, it eliminates the mandatory use of Matter hubs, enhancing user experience and extending the operational range of IoT devices. This innovation also improves device functionality support, allowing them to support diverse and specialized device functionalities
+beyond Matter's predefined device types. From an enterprise
+perspective, all device interactions and transactions are permanently recorded
+on the blockchain, providing businesses with reliable and immutable data for
+tracking device usage patterns and extracting valuable operational insights.
 
-Primarily, it eliminates the mandatory use of Matter hubs, significantly enhancing user experience and flexibility. This innovation also extends the operational range of Matter devices, allowing them to be placed and controlled beyond the confines of a home. Users can easily manage devices in various environments such as home, workspaces, and vehicles through a single application.
-
-From an enterprise perspective, all device interactions and transactions are permanently recorded on the blockchain, providing businesses with reliable and immutable data for tracking device usage patterns and extracting valuable operational insights.
-
-Furthermore, Matter Tunnel ensures platform independence, freeing users from being locked into specific ecosystems. It strengthens security by enabling complete end-to-end encryption (E2EE) and enhances user privacy. Additionally, by lowering entry barriers, Matter Tunnel opens up opportunities for small development teams to participate in the Matter ecosystem. With these improvements, users can enjoy a more secure, versatile, and unrestricted IoT experience.
+Furthermore, Matter Tunnel ensures platform independence, freeing users from
+being locked into specific ecosystems. It strengthens security by enabling
+complete end-to-end encryption (E2EE) and enhances user privacy. Additionally,
+by lowering entry barriers, Matter Tunnel opens up opportunities for small development
+teams to participate in the Matter ecosystem. With these improvements, users
+can enjoy a more secure, versatile, and unrestricted IoT experience.
 
 ## Our Team
 
