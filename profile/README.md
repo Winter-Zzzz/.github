@@ -4,7 +4,8 @@
 ## 🎥 Demo Video
 <div align="center">
 
-<a href="https://youtu.be/oe0lZCAcnCs?feature=shared" style="color: black;">**🔽 Click to watch the demo video 🔽**</a>
+[**🔽 Click to watch the demo video 🔽**](https://youtu.be/oe0lZCAcnCs?feature=shared)
+
 
 [![Demo Video](https://github.com/user-attachments/assets/f567cf25-6758-4c71-8298-30d3715ec25f)](https://youtu.be/oe0lZCAcnCs?feature=shared)
 
